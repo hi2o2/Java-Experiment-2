@@ -22,3 +22,6 @@ class secondlargest {
 			    b[j]=b[j+1];
 			    b[j+1]=temp;
 }}}      
+        System.out.println("\n Second largest ="+b[n-2]);
+    }
+}
