@@ -1,7 +1,7 @@
 //9. Program to find trace of matrix.
 import java.util.*;
 import java.io.*;
-class HelloWorld {
+class trace_matrix {
     public static void main(String[] args) {
         Scanner obj = new Scanner (System.in);
         System.out.println("Enter the number of entries:");
