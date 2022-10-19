@@ -1,7 +1,7 @@
 //8. Program to multiply two matrices.
 import java.util.*;
 import java.io.*;
-class HelloWorld {
+class Multiply_matrix {
     public static void main(String[] args) {
         Scanner obj = new Scanner (System.in);
         System.out.println("Enter the number of entries:");
